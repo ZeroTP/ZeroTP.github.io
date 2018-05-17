@@ -43,7 +43,6 @@ li a {
     text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #111;
 }
@@ -62,3 +61,4 @@ li:last-child {
     padding-bottom: 82px;
     padding-left: 82px;
 }
+.click p {text-align:center;}
