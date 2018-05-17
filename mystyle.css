@@ -3,6 +3,10 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 .nav {
     text-align: center;
 }
+.nav ul {
+    display: inline-block;
+    list-style-type: none;
+}
 
 .sum {
     padding-top: 80px;
