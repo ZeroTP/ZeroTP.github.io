@@ -16,7 +16,7 @@ li {
         float: left;
 }
 
-a {
+li a {
     display: block;
     padding: 8px;
 }
