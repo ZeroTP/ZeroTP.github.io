@@ -52,5 +52,4 @@ li:last-child {
 }
 
 .video {
-    float: left;
-}
+    vertical-align: middle;
