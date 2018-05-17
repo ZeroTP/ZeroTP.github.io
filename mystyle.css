@@ -53,5 +53,8 @@ li:last-child {
 
 .video {
     vertical-align: middle;
-    float: left;
+    padding-top: 80px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+    padding-left: 80px;
 }
