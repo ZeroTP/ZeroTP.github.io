@@ -51,3 +51,6 @@ li:last-child {
     border-right: none;
 }
 
+.video {
+    float: left;
+}
