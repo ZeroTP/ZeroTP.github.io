@@ -5,7 +5,10 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 }
 
 .sum {
-    padding: 10px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 }
 
 ul {
