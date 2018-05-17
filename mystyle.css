@@ -50,3 +50,26 @@ li {
 li:last-child {
     border-right: none;
 }
+.spoilerbutton {
+  display: block;
+  margin: 5px 0;
+}
+
+.spoiler {
+  overflow: hidden;
+  background: #f5f5f5;
+}
+
+.spoiler>div {
+  margin: 5px;
+  overflow: hidden;
+  transition: all 1s ease;
+}
+
+.spoilerbutton[value="Show"]+.spoiler>div {
+  max-height: 0;
+}
+
+.spoilerbutton[value="Hide"]+.spoiler>div {
+  max-height: 90px; /*use a big value here*/
+}
