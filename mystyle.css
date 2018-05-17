@@ -71,5 +71,8 @@ li:last-child {
 }
 
 .spoilerbutton[value="Hide"]+.spoiler>div {
-  max-height: 90px; /*use a big value here*/
+  max-height: 100px; /*use a big value here*/
+}
+code { 
+    font-family: monospace;
 }
