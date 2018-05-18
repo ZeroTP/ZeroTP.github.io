@@ -3,7 +3,8 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 header {
     background-image: url("banner.jpg");
 }
-
+@sans-serif: "jaf-bernino-sans-comp";
+@serif:  "chaparral-pro", Georgia, "Times New Roman", Times, serif;
 
 .nav {
     text-align: center;   
@@ -22,6 +23,7 @@ header {
 
 .sum p {
     font-size: 30px;
+    font-family: @sans-serif;
 }
 
 ul {
