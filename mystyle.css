@@ -26,23 +26,23 @@ header {
     font-family: @sans-serif !important;
 }
 
-ul {
+.nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     background-color: #333;
 }
 
-ul {
+.nav ul {
     margin: 0;
     padding: 0;
 }
 
-li {
+.nav li {
     float: left;
 }
 
-li a {
+.nav li a {
     
     display: block;
     color: white;
@@ -51,14 +51,14 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+.nav li a:hover {
     background-color: #111;
 }
-li {
+.nav li {
     border-right: 1px solid #bbb;
 }
 
-li:last-child {
+.nav li:last-child {
     border-right: none;
 }
 
