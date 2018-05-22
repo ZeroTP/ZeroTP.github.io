@@ -1,7 +1,7 @@
 body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 
 header {
-    background-image: url("banner.jpg");
+    background-color: #94C3E7;
 }
 @sans-serif: "jaf-bernino-sans-comp";
 @serif:  "chaparral-pro", Georgia, "Times New Roman", Times, serif;
